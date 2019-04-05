@@ -1,7 +1,6 @@
 // Dependencies
 import React, { Component } from 'react';
 import { Route, withRouter } from 'react-router-dom';
-import axios from 'axios';
 import fuzzyFilterFactory from 'react-fuzzy-filter';
 // Components
 import CreateNoteView from './views/CreateNoteView';
